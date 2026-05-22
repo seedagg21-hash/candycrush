@@ -1,0 +1,12 @@
+{
+  "name": "candycrush",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
